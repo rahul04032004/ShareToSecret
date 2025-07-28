@@ -57,10 +57,4 @@ wsl ./secret_share
 ```
 Each line is the secret for one test case, in order.
 
-## Notes
-- No Python code is present or required.
-- Only the two required test cases are included and processed.
-- Output matches the assignment requirements exactly.
 
-## Submission
-Push this code to GitHub and submit the link along with the output above.
